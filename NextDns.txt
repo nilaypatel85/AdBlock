@@ -49,7 +49,6 @@ aa.agkn.com
 aamt.nbcnews.com
 aan.amazon.com
 aax-us-east.amazon-adsystem.com
-aax.amazon-adsystem.com
 acdn.adnxs.com
 ad.adsrvr.org
 ad.broadstreetads.com
@@ -121,7 +120,6 @@ api.ibeat-analytics.com
 api.instabug.com
 api.ipdata.co
 api.iterable.com
-api.mixpanel.com
 api.nextgen.guardianapps.co.uk
 api.onesignal.com
 api.radar.io
@@ -196,7 +194,6 @@ businessinsider.amp.permutive.com
 buy.tinypass.com
 buzzfeed.amp.permutive.com
 bwgstrategy.az1.qualtrics.com
-c.amazon-adsystem.com
 c.bing.com
 c.lytics.io
 c.msn.com
@@ -304,7 +301,6 @@ comcastentertainmentgroup.hb.omtrdc.net
 concertads-configs.vox-cdn.com
 confiant-integrations.global.ssl.fastly.net
 config.emb-api.com
-config.inmobi.com
 config.mobilegamestats.com
 config.seedtag.com
 config.uca.cloud.unity3d.com
@@ -326,7 +322,6 @@ csi.gstatic.com
 ct.pinterest.com
 cx.atdmt.com
 d.agkn.com
-d.applovin.com
 d.applvn.com
 d.btttag.com
 d.impactradius-event.com
@@ -403,7 +398,6 @@ fastlane.rubiconproject.com
 fc.yahoo.com
 fdfe4ed62699.cdn4.forter.com
 fdz.flashtalking.com
-firebase-settings.crashlytics.com
 firebaselogging-pa.googleapis.com
 firebaselogging.googleapis.com
 fireworkadservices1.com
@@ -470,7 +464,6 @@ in.appcenter.ms
 in.wzrkt.com
 inapps.appsflyer.com
 ingest.make.rvapps.io
-init.supersonicads.com
 inline.healthline.com
 insider.edge.permutive.app
 insight.adsrvr.org
@@ -516,7 +509,6 @@ lt.logly.co.jp
 m.addthis.com
 m.addthisedge.com
 m.yap.yahoo.com
-mads.amazon-adsystem.com
 manifest.localytics.com
 marketplace-ios-b225.hyprmx.com
 mb.moatads.com
@@ -535,8 +527,6 @@ mobile.pipe.aria.microsoft.com
 mobiletelemetry.ebay.com
 monitoring-sdk.experimentation.intuit.com
 motleyfool-d.openx.net
-ms.applovin.com
-ms.applvn.com
 ms4.applovin.com
 mssl.fwmrm.net
 native.sharethrough.com
@@ -662,7 +652,6 @@ request.czilladx.com
 res.atomex.net
 resources.xg4ken.com
 rm.aarki.net
-rt.applovin.com
 rt.applvn.com
 rum-static.pingdom.net
 rum.browser-intake-datadoghq.com
